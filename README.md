@@ -1,6 +1,6 @@
-# 国内如何使用 ChatGPT？最容易懂的 ChatGPT 介绍与教学指南【2025/04更新】
+# 国内如何使用 ChatGPT？最容易懂的 ChatGPT 介绍与教学指南【2025/05更新】
 ---
->更新时间: 2025-04-28
+>更新时间: 2025-05-19
 
 **这是一份全方位的指南，帮助您轻松使用 ChatGPT 中文版，无需科学上网即可体验 GPT-4 的全部功能！**  
 在本文中，您将了解如何通过推荐的镜像网站访问 ChatGPT 中文版、注册使用的具体步骤，以及常见问题的解答。
@@ -23,11 +23,9 @@
 
 | 网站名称               | 支持功能                                 | 类型      | 访问方式                                                                                                      |
 |------------------------|------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------|
-| 一下AI                 | GPT-4.1, GPT 4o画图、GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet、AI PPT	                   | 网站      | [www.yixiaai.com](http://www.yixiaai.com)                                                                     |
-| Lify Chat              | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站      | [chat.lify.vip](http://chat.lify.vip)                                                                          |
+| 一下AI                 | GPT-4.1, GPT 4o画图、GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet、AI PPT	                   | 网站      | [www.yixiaai.com](http://xsimplechat.com)                                                                     |
+| Lify Chat              | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站      | [chat.lify.vip](http://chat.lanjing.pro)                                                                          |
 | ChatGPT For Desktop    | GPT 全系列模型                           | 电脑客户端 | [ChatGPT For Desktop 下载链接](http://chatknow.lify.vip/software/AI智慧岛_1.0.0_x64_zh-CN.msi)                  |
-| ChatGPT for Edge       | Edge 浏览器插件，全系列模型              | Edge浏览器插件 | [Microsoft Edge 插件下载](https://microsoftedge.microsoft.com/addons/detail/chatgpt中文版（中文界面、对话、写作、绘画）/lmlenkgcieicbnpobkhmpcgmamahahil) |
-
 
 ---
 
@@ -60,7 +58,7 @@
 
 ## 快速开始使用 ChatGPT 中文版
 
-1. **选择镜像站点**：访问推荐的镜像站点，如 chat.yixiaai.com。
+1. **选择镜像站点**：访问推荐的镜像站点，如 xsimplechat.com。
 2. **注册账号**：使用您的邮箱或手机号完成注册。
 3. **选择模型**：根据需要选择 GPT-4、GPT-o3 或 GPT-o1。
 4. **享受体验**：输入您的问题，获得准确和高效的回答！
